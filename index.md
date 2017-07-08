@@ -12,4 +12,4 @@ If you are interest in Blockchain related solution please feel free to contact u
 
 ### Support or Contact
 
-blockchain@niceir.com
+blockchain@mail.niceir.com
